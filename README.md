@@ -1,1 +1,4 @@
 # avatars
+
+
+pip install Pillow
